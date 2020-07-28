@@ -10,12 +10,19 @@ Buscando dar um passo além, nessa edição do PoD MeetUp introduziremos vocês 
 
 ## Conteúdo:
 
-•	O que é GIS ? Quais as principais ferramentas ?
-•	Trabalhando com Geometrias
-•	Trabalhando com Rasters
+* O que é GIS ? Quais as principais ferramentas ?
+* Trabalhando com Geometrias
+* Trabalhando com Rasters
 
 
 ## Recomendação de material:
 
 O repositório [AwesomeGIS](https://https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana À respeito do universo de GIS.
+
+
+## Nos sigam nas redes sociais:
+
+* [Site da Empresa](https://www.powerofdata.com.br/#fale-conosco)
+* [LinkedIn](https://www.linkedin.com/company/powerofdata/)
+* [Instagram](https://www.instagram.com/powerofdata/)
 
