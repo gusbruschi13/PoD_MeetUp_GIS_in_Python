@@ -1,6 +1,6 @@
 # PoD MeetUp - Analisando Dados Geográficos com Python - Uma Introdução ao GIS
 
-Este repositório contém materiais do PoD MeetUp "Analisando Dados Geográficos com Python - Uma Introdução ao GIS", realizado pela equipe da [PowerOfData](https://www.powerofdata.com.br/#fale-conosco).
+Este repositório contém materiais do PoD MeetUp "**_Analisando Dados Geográficos com Python - Uma Introdução ao GIS**_", realizado pela equipe da [PowerOfData](https://www.powerofdata.com.br/#fale-conosco).
 
 ![PoD Slogan](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/pod_slogan.png)
 
@@ -10,9 +10,11 @@ Buscando dar um passo além, nessa edição do PoD MeetUp introduziremos vocês 
 
 ## Conteúdo:
 
-* O que é GIS ? Quais as principais ferramentas ?
-* Trabalhando com Geometrias
-* Trabalhando com Rasters
+**Tema da Aula** | **Material**
+------------ | -------------
+O que é GIS ? Quais as principais ferramentas ? | Slides
+Trabalhando com Geometrias | Notebook
+Trabalhando com Rasters | Notebook
 
 
 ## Recomendação de material:
