@@ -1,6 +1,6 @@
 # PoD MeetUp - Data Science GeoEspacial com Python - Uma Introdução ao GIS
 
-Este repositório contém materiais do PoD MeetUp "**_Data Science GeoEspacial com Python - Uma Introdução ao GIS**_", realizado pela equipe da [PowerOfData](https://www.powerofdata.com.br/#fale-conosco).
+Este repositório contém materiais do PoD MeetUp "**_Data Science GeoEspacial com Python - Uma Introdução ao GIS_**", realizado pela equipe da [PowerOfData](https://www.powerofdata.com.br/#fale-conosco).
 
 ![PoD Slogan](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/pod_slogan.png)
 
