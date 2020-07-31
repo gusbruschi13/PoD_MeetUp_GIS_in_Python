@@ -1,6 +1,6 @@
-# PoD MeetUp - Data Science GeoEspacial com Python - Uma Introdução ao GIS
+# PoD MeetUp - GeoDataScience com Python - Uma Introdução ao GIS
 
-Este repositório contém materiais do PoD MeetUp "**_Data Science GeoEspacial com Python - Uma Introdução ao GIS_**", realizado pela equipe da [PowerOfData](https://www.powerofdata.com.br/#fale-conosco).
+Este repositório contém materiais do PoD MeetUp "**_GeoDataScience com Python - Uma Introdução ao GIS_**", realizado pela equipe da [PowerOfData](https://www.powerofdata.com.br/#fale-conosco).
 
 ![PoD Slogan](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/pod_slogan.png)
 
@@ -12,7 +12,7 @@ Buscando dar um passo além, nessa edição do PoD MeetUp introduziremos vocês 
 
 **Tema da Aula** | **Material**
 ------------ | -------------
-O que é GIS ? Quais as principais ferramentas ? | Slides
+O que é GIS ? Quais as principais ferramentas ? |Notebook
 Trabalhando com Geometrias | Notebook
 Trabalhando com Rasters | Notebook
 
