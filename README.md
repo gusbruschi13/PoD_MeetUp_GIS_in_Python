@@ -14,8 +14,8 @@ Buscando dar um passo além, nessa edição do PoD MeetUp introduziremos vocês 
 ------------ | ------------ | -------------
 02/09 | Introdução ao GIS - História e Conceitos Básicos |Notebook
 02/09 | Introdução ao Geopandas - Manipulação de Dados e Operações Espaciais | Notebook
-09/09 | Visualização de Dados - Parte 1| Notebook
-09/09 | Visualização de Dados - Parte 2| Notebook
+09/09 | Visualização de Dados - Parte 1 (Mapas Estáticos)| Notebook
+09/09 | Visualização de Dados - Parte 2 (Mapas Interativos)| Notebook
 09/09 | Resolução de Case| Notebook
 
 
@@ -28,5 +28,6 @@ O repositório [AwesomeGIS](https://https://github.com/sshuair/awesome-gis) cont
 
 * [Site da Empresa](https://www.powerofdata.com.br/#fale-conosco)
 * [LinkedIn](https://www.linkedin.com/company/powerofdata/)
+* [Medium](https://medium.com/powerofdata)
 * [Instagram](https://www.instagram.com/powerofdata/)
 
