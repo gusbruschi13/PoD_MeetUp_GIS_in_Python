@@ -10,11 +10,13 @@ Buscando dar um passo além, nessa edição do PoD MeetUp introduziremos vocês 
 
 ## Conteúdo:
 
-**Tema da Aula** | **Material**
------------- | -------------
-O que é GIS ? Quais as principais ferramentas ? |Notebook
-Trabalhando com Geometrias | Notebook
-Trabalhando com Rasters | Notebook
+**Dia**| **Tema da Aula** | **Material**
+------------ | ------------ | -------------
+02/09 | Introdução ao GIS - História e Conceitos Básicos |Notebook
+02/09 | Introdução ao Geopandas - Manipulação de Dados e Operações Espaciais | Notebook
+09/09 | Visualização de Dados - Parte 1| Notebook
+09/09 | Visualização de Dados - Parte 2| Notebook
+09/09 | Resolução de Case| Notebook
 
 
 ## Recomendação de material:
