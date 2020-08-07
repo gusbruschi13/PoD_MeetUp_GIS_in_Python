@@ -21,7 +21,7 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 
 ## Recomendação de material:
 
-O repositório [AwesomeGIS](https://https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana À respeito do universo de GIS.
+O repositório [AwesomeGIS](https://https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana à respeito do universo de GIS.
 
 
 ## Nos sigam nas redes sociais:
