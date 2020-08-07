@@ -4,9 +4,9 @@ Este repositório contém materiais do PoD MeetUp "**_GeoDataScience com Python 
 
 ![PoD Slogan](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/pod_slogan.png)
 
-GIS (Geographic Information Systems) ou Sistema de Informações Geográficas, é nome dado aos softwares voltados para coleta, gerenciamento e análise de dados que são referenciados espacialmente por algum sistema de coordenadas. Com esse tipo de tecnologia, é possível gerar visualizações espaciais usando mapas e gráficos 3D. Dessa forma, revelando _insights_ mais profundos sobre dados, ajudando os usuários a tomar decisões mais inteligentes.
+GIS (Geographic Information Systems) ou Sistema de Informações Geográficas, é nome dado aos softwares voltados para coleta, gerenciamento e análise de dados que são referenciados espacialmente por algum sistema de coordenadas. Esse tipo de dado é essencial nos negócios modernos. Grandes empresas de TI como Apple, Google, Microsoft, Intel e Uber atrelam suas transações à esse tipo de informação, além de outras indústrias, é claro. Como consequência, a demanda por profissionais com esse tipo conhecimento aumenta cada vez mais.
 
-Buscando dar um passo além, nessa edição do PoD MeetUp introduziremos vocês ao mundo de GIS com a linguagem de programação Python.
+Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem Python. Possibilitando a manipulação e visualização de dados espaciais com mapas estáticos e interativos, e até mesmo modelagem estatística.
 
 ## Conteúdo:
 
