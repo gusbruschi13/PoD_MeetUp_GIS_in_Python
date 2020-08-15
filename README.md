@@ -12,7 +12,7 @@ GIS (Geographic Information Systems) ou Sistema de Informações Geográficas, �
 Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem Python. Possibilitando a manipulação e visualização de dados espaciais com mapas estáticos e interativos, e até mesmo modelagem estatística.
 
 <p align="center">
-<img src="https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/malmo_osm.png">
+<img src="https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/paises_baixos.jpg">
  </p>
 
 
@@ -39,7 +39,7 @@ O repositório [AwesomeGIS](https://github.com/sshuair/awesome-gis) contém todo
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 
-## ⭐ Siga a PowerOfData nas redes sociais:
+## 🌐 Siga a PowerOfData nas redes sociais:
 
 * [Site da Empresa](https://www.powerofdata.com.br/#fale-conosco)
 * [LinkedIn](https://www.linkedin.com/company/powerofdata/)
