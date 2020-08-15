@@ -1,4 +1,7 @@
-# PoD MeetUp - GeoDataScience com Python - Uma Introdução ao GIS
+<header> 
+<h1 align="center">PoD MeetUp - GeoDataScience com Python - Uma Introdução ao GIS 🌏</h1>
+</header>
+
 
 Este repositório contém materiais do PoD MeetUp "**_GeoDataScience com Python - Uma Introdução ao GIS_**", realizado pela equipe da [PowerOfData](https://www.powerofdata.com.br/#fale-conosco).
 
@@ -8,15 +11,20 @@ GIS (Geographic Information Systems) ou Sistema de Informações Geográficas, �
 
 Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem Python. Possibilitando a manipulação e visualização de dados espaciais com mapas estáticos e interativos, e até mesmo modelagem estatística.
 
+<p align="center">
+<img src="https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/malmo_osm.png">
+ </p>
+
+
 ## Conteúdo:
 
 **Dia**| **Tema da Aula** | **Material**
 ------------ | ------------ | -------------
-02/09 | Introdução ao GIS - História e Conceitos Básicos |Notebook
-02/09 | Introdução ao Geopandas - Manipulação de Dados e Operações Espaciais | Notebook
-09/09 | Visualização de Dados - Parte 1 (Mapas Estáticos)| Notebook
-09/09 | Visualização de Dados - Parte 2 (Mapas Interativos)| Notebook
-09/09 | Resolução de Case| Notebook
+02/09 | Introdução ao GIS - História e Conceitos Básicos | [Notebook]
+02/09 | Introdução ao Geopandas - Manipulação de Dados e Operações Espaciais | [Notebook]
+09/09 | Visualização de Dados - Parte 1 (Mapas Estáticos)| [Notebook]
+09/09 | Visualização de Dados - Parte 2 (Mapas Interativos)| [Notebook]
+09/09 | Resolução de Case| [Notebook]
 
 
 ## Recomendação de material:
@@ -24,10 +32,19 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 O repositório [AwesomeGIS](https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana à respeito do universo de GIS.
 
 
-## Nos sigam nas redes sociais:
+## 💪🏾 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+## ⭐ Nos sigam nas redes sociais:
 
 * [Site da Empresa](https://www.powerofdata.com.br/#fale-conosco)
 * [LinkedIn](https://www.linkedin.com/company/powerofdata/)
 * [Medium](https://medium.com/powerofdata)
 * [Instagram](https://www.instagram.com/powerofdata/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Wendel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/powerofdata/)](https://www.linkedin.com/company/powerofdata/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato@powerofdata.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendelmarquesjs@gmail.com)](mailto:contato@powerofdata.com.br)
