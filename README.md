@@ -39,12 +39,14 @@ O repositório [AwesomeGIS](https://github.com/sshuair/awesome-gis) contém todo
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 
-## ⭐ Nos sigam nas redes sociais:
+## ⭐ Siga a PowerOfData nas redes sociais:
 
 * [Site da Empresa](https://www.powerofdata.com.br/#fale-conosco)
 * [LinkedIn](https://www.linkedin.com/company/powerofdata/)
 * [Medium](https://medium.com/powerofdata)
 * [Instagram](https://www.instagram.com/powerofdata/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wendel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/powerofdata/)](https://www.linkedin.com/company/powerofdata/) 
-[![Gmail Badge](https://img.shields.io/badge/-contato@powerofdata.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendelmarquesjs@gmail.com)](mailto:contato@powerofdata.com.br)
+## Entre em contato comigo:
+
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bruschi/)](https://www.linkedin.com/in/gustavo-bruschi/) 
+* [![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendelmarquesjs@gmail.com)]* (mailto:gustavo.bruschi@powerofdata.com.br)
