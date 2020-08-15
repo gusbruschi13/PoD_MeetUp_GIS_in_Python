@@ -1,5 +1,5 @@
 <header> 
-<h1 align="center">PoD MeetUp - GeoDataScience com Python - Uma Introdução ao GIS 🌏</h1>
+<h1>PoD MeetUp - GeoDataScience com Python - Uma Introdução ao GIS 🌏</h1>
 </header>
 
 
@@ -16,7 +16,7 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
  </p>
 
 
-## Conteúdo:
+## 📚 Conteúdo:
 
 **Dia**| **Tema da Aula** | **Material**
 ------------ | ------------ | -------------
@@ -27,7 +27,7 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 09/09 | Resolução de Case| [Notebook]
 
 
-## Recomendação de material:
+## 🚥 Recomendação de material:
 
 O repositório [AwesomeGIS](https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana à respeito do universo de GIS.
 
@@ -49,4 +49,4 @@ O repositório [AwesomeGIS](https://github.com/sshuair/awesome-gis) contém todo
 ## Entre em contato comigo:
 
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bruschi/)](https://www.linkedin.com/in/gustavo-bruschi/) 
-* [![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendelmarquesjs@gmail.com)]* (mailto:gustavo.bruschi@powerofdata.com.br)
+* [![Gmail Badge](https://img.shields.io/badge/-My-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.bruschi@powerofdata.com.br)]* (mailto:gustavo.bruschi@powerofdata.com.br)
