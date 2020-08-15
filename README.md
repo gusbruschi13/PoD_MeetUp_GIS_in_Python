@@ -11,10 +11,8 @@ GIS (Geographic Information Systems) ou Sistema de Informações Geográficas, �
 
 Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem Python. Possibilitando a manipulação e visualização de dados espaciais com mapas estáticos e interativos, e até mesmo modelagem estatística.
 
-<p align="center">
-<img src="https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/paises_baixos.jpg">
- </p>
-
+![Países Baixos](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/paises_baixos.jpg)
+ 
 
 ## 📚 Conteúdo:
 
