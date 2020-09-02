@@ -28,7 +28,7 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 
 ## 📂  Dados Utilizados no Curso:
 
-[**Baixe Aqui**](https://drive.google.com/drive/folders/14bZ-1YD3uhnsqywt1RV5fvuuztQnf-lN?usp=sharing)
+- [**Baixe Aqui**](https://drive.google.com/drive/folders/14bZ-1YD3uhnsqywt1RV5fvuuztQnf-lN?usp=sharing)
 
 
 ## 👓 Artigos sobre GIS da PowerOfData:
@@ -38,8 +38,11 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 
 ## 🚥 Recomendação de material:
 
-O repositório [AwesomeGIS](https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana à respeito do universo de GIS.
+- O repositório [**AwesomeGIS**](https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana à respeito do universo de GIS.
 
+- - O curso [**Spatial Analysis and Geospatial Data Science With Python**](https://www.udemy.com/course/spatial-data-science-with-python/) é uma excelente introdução ao GIS no universo de Python
+
+- Playlist no Youtube sobre a [**API do Google Earth Engine no Python**](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3)
 
 ## 💪🏾 Como contribuir para o projeto
 
