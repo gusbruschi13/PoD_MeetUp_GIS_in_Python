@@ -14,6 +14,7 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 ![Países Baixos](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/images/paises_baixos.jpg)
  
 
+
 ## 📚 Conteúdo:
 
 **Dia**| **Tema da Aula** | **Material**
@@ -47,12 +48,15 @@ O repositório [AwesomeGIS](https://github.com/sshuair/awesome-gis) contém todo
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 
+
 ## 🌐 Siga a PowerOfData nas redes sociais:
 
 * [Site da Empresa](https://www.powerofdata.com.br/#fale-conosco)
 * [LinkedIn](https://www.linkedin.com/company/powerofdata/)
 * [Medium](https://medium.com/powerofdata)
 * [Instagram](https://www.instagram.com/powerofdata/)
+
+
 
 ## Entre em contato comigo:
 
