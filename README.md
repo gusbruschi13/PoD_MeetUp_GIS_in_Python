@@ -40,7 +40,7 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 
 - O repositório [**AwesomeGIS**](https://github.com/sshuair/awesome-gis) contém todo tipo de material bacana à respeito do universo de GIS.
 
-- - O curso [**Spatial Analysis and Geospatial Data Science With Python**](https://www.udemy.com/course/spatial-data-science-with-python/) é uma excelente introdução ao GIS no universo de Python
+- O curso [**Spatial Analysis and Geospatial Data Science With Python**](https://www.udemy.com/course/spatial-data-science-with-python/) é uma excelente introdução ao GIS no universo de Python
 
 - Playlist no Youtube sobre a [**API do Google Earth Engine no Python**](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3)
 
