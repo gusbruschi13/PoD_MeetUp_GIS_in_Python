@@ -25,6 +25,9 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 09/09 | Resolução de Case| [Notebook]
 
 
+[**Dados do Curso**](https://drive.google.com/drive/folders/14bZ-1YD3uhnsqywt1RV5fvuuztQnf-lN?usp=sharing)
+
+
 ## 👓 Artigos sobre GIS da PowerOfData:
 
 - [GeoDataScience com Python: Analisando Acidentes de Carros nos EUA](https://medium.com/powerofdata/geodatascience-com-python-analisando-acidentes-de-carros-nos-eua-86a8c35554bf)
