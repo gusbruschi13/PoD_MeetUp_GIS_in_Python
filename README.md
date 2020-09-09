@@ -21,9 +21,9 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 ------------ | ------------ | -------------
 02/09 | Introdução ao GIS - História e Conceitos Básicos | [Notebook](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/000%20-%20Notebooks/01%20-%20Introdu%C3%A7%C3%A3o%20ao%20GIS%20-%20Hist%C3%B3ria%20e%20Conceitos%20B%C3%A1sicos.ipynb)
 02/09 | Introdução ao Geopandas - Manipulação de Dados e Operações Espaciais | [Notebook](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/000%20-%20Notebooks/02%20-%20Introdu%C3%A7%C3%A3o%20ao%20Geopandas%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados%20e%20Opera%C3%A7%C3%B5es%20Espaciais.ipynb)
-09/09 | Visualização de Dados - Parte 1 (Mapas Estáticos)| [Notebook]
-09/09 | Visualização de Dados - Parte 2 (Mapas Interativos)| [Notebook]
-09/09 | Resolução de Case| [Notebook]
+09/09 | Visualização de Dados - Parte 1 (Mapas Estáticos)| [Notebook](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/000%20-%20Notebooks/03%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20-%20Parte%201%20(Mapas%20Est%C3%A1ticos).ipynb)
+09/09 | Visualização de Dados - Parte 2 (Mapas Interativos)| [Notebook](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/000%20-%20Notebooks/04%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20-%20Parte%202%20(Mapas%20Interativos).ipynb)
+09/09 | Resolução de Case| [Notebook](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/000%20-%20Notebooks/05%20-%20Case%20-%20US%20Accidents.ipynb)
 
 
 ## 📂  Dados Utilizados no Curso:
