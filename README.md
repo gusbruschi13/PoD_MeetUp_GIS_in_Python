@@ -26,6 +26,14 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 09/09 | Resolução de Case| [Notebook](https://github.com/gusbruschi13/PoD_MeetUp_GIS_in_Python/blob/master/000%20-%20Notebooks/05%20-%20Case%20-%20US%20Accidents.ipynb)
 
 
+## 🎥 **Gravações das Aulas**:
+
+
+- **Dia 1:** https://www.youtube.com/watch?v=60XcLa71ExI
+
+- **Dia 2: EM BREVE**
+
+
 ## 📂  Dados Utilizados no Curso:
 
 - [**Baixe Aqui**](https://drive.google.com/drive/folders/14bZ-1YD3uhnsqywt1RV5fvuuztQnf-lN?usp=sharing)
