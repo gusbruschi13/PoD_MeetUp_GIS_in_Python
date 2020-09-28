@@ -31,7 +31,7 @@ Nesse curso, introduziremos os conceitos básicos de GIS utilizando a linguagem 
 
 - **Dia 1:** https://www.youtube.com/watch?v=60XcLa71ExI
 
-- **Dia 2: EM BREVE**
+- **Dia 2:** https://www.youtube.com/watch?v=ZAMnFAzMkZk
 
 
 ## 📂  Dados Utilizados no Curso:
